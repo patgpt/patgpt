@@ -30,10 +30,10 @@ I'm a Senior Software Engineer with robust experience in web and cross-platform 
 
 ## 📫 How to reach me
 
-You can email me at channel.42@icloud.com or call me at (+1) 236-877-6096.
-
-!Linkedin
-!WhatsApp
+[![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/patgpt/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/xspacehost)
+[![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:hello@channel42.ca)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green)](https://wa.me/12368776096)
 
 ## 😄 Fun fact
 
