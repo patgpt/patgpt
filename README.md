@@ -32,10 +32,12 @@ I'm a Senior Software Engineer with robust experience in web and cross-platform 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/patgpt/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/xspacehost)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/xspacehost)
 [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:hello@channel42.ca)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green)](https://wa.me/12368776096)
 
 ## 😄 Fun fact
 
 I love playing video games and creating my own games using Unity and Unreal Engine.
+
 
