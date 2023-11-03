@@ -43,4 +43,4 @@ I love playing video games and creating my own games using Unity and Unreal Engi
 
 ## Community organizer for XIAO in where we learn new tech stacks and mentor new programmers. ALl are welcome.
  
-<a href="https://discord.gg/1108214020378464400" target="_blank"><img src="https://img.shields.io/discord/<server-id>.svg?label=Chat%20on%20Discord&logo=discord&colorB=7289DA"></a>
+<a href="https://discord.gg/1108214020378464400" target="_blank"><img src="https://img.shields.io/discord/1108214020378464400.svg?label=Chat%20on%20Discord&logo=discord&colorB=7289DA"></a>
