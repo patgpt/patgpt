@@ -34,13 +34,22 @@ I'm a Senior Software Engineer with robust experience in web and cross-platform 
 [![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/xspacehost)
 [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:hello@channel42.ca)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green)](https://wa.me/12368776096)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile_Name-blue.svg)](https://www.linkedin.com/in/xspacehost/)
 
-## 😄 Fun facts
+## 😄 Hobbies
+- I play guitar 🎸
+- I produce EDM with Ableton 🎧
+- I write Hip Hop Lyrics 🎤
+- I build video games 🎮
+- I contribute to OSS on GitHub 💻
+- I enjoy Photography 📷
+- I love to Travel ✈️
+- I go horseback riding 🐴
 
-I love playing video games and creating my own games using Unity and Unreal Engine.
+## 🚀 Community Involvement
 
-## I host regular x on topics from UFO's, Paranormal, Technology, Space, Astrology, Health and wellbeing and am a community organizer on Twtitter called XSpaceStation
+I host regular discussions on topics ranging from UFO’s, Paranormal, Technology, Space, Astrology, Health and wellbeing on Twitter. You can find me at XSpaceStation.
+I am a community organizer for XIAO where we learn new tech stacks and mentor new programmers. All are welcome to join us!
 
-## Community organizer for XIAO in where we learn new tech stacks and mentor new programmers. ALl are welcome.
  
 <a href="https://discord.gg/1108214020378464400" target="_blank"><img src="https://img.shields.io/discord/1108214020378464400.svg?label=Chat%20on%20Discord&logo=discord&colorB=7289DA"></a>
