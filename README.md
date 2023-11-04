@@ -59,7 +59,7 @@ I've had the honor of contributing to projects for the following esteemed client
 - ![Triangle MasterCard](path-to-Triangle-MasterCard-logo)
 - ![Sports Experts](path-to-Sports-Experts-logo)
 - ![FGL Sports](path-to-FGL-Sports-logo)
-- ![HELLY HANSEN](path-to-HELLY-HANSEN-logo)
+- ![HELLY HANSEN](logos/hh-logo.png)
 - ![Party City](path-to-Party-City-logo)
 - ![HGTV](path-to-HGTV-logo)
 - ![UofT](path-to-UofT-logo)
