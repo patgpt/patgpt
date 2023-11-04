@@ -1,4 +1,4 @@
-# Hi there, I'm Patrick Kelly 👋
+609# Hi there, I'm Patrick Kelly 👋
 
 👨‍💻 Senior Software Engineer | Web & Cross-platform Development Specialist | Accessibility & SEO Advocate | Agile Methodology Champion | Mentor & Leader
 
@@ -41,30 +41,26 @@
 
 ## Clients & Projects
 
-I've had the honor of contributing to projects for the following esteemed clients:
-
-- ![Sherwin Williams](/logos/sw-logo.png)
-- ![Google](path-to-Google-logo)
-- ![Intel](path-to-Intel-logo)
-- ![AWS Reinvent](path-to-AWS-Reinvent-logo)
-- ![iLikePlastic](path-to-iLikePlastic-logo)
-- ![The Tobacco Healing Center](path-to-The-Tobacco-Healing-Center-logo)
-- ![Novartis](path-to-Novartis-logo)
-- ![ZScalar](path-to-ZScalar-logo)
-- ![Owens Corning](/logos/oc-logo/png)
-- ![Canadian Tire](/logos/ct-logo.png)
-- ![Marks](/logos/marks.png)
-- ![Sport Chek](/logos-sc-logo.png)
-- ![Atmosphere](/logos/atmosphere-logo.png)
-- ![Triangle MasterCard](/logos/ctfs-logo.png)
-- ![Sports Experts](/logos/se-logo.png)
-- ![FGL Sports](path-to-FGL-Sports-logo)
-- ![HELLY HANSEN](/logos/hh--logo.png h=200px w=200px)
-- ![Party City](/logos/pc-logo)
-- ![HGTV](/logos/hgtv-logo)
-- ![UofT](/logos/ufot-logo)
-
----
+<img src="path-to-Sherwin-Williams-logo" alt="Sherwin Williams Logo" width="200" height="200">
+<img src="path-to-Google-logo" alt="Google Logo" width="200" height="200">
+<img src="path-to-Intel-logo" alt="Intel Logo" width="200" height="200">
+<img src="path-to-AWS-Reinvent-logo" alt="AWS Reinvent Logo" width="200" height="200">
+<img src="path-to-iLikePlastic-logo" alt="iLikePlastic Logo" width="200" height="200">
+<img src="path-to-The-Tobacco-Healing-Center-logo" alt="The Tobacco Healing Center Logo" width="200" height="200">
+<img src="path-to-Novartis-logo" alt="Novartis Logo" width="200" height="200">
+<img src="path-to-ZScalar-logo" alt="ZScalar Logo" width="200" height="200">
+<img src="path-to-Owens-Corning-logo" alt="Owens Corning Logo" width="200" height="200">
+<img src="path-to-Canadian-Tire-logo" alt="Canadian Tire Logo" width="200" height="200">
+<img src="path-to-Marks-logo" alt="Marks Logo" width="200" height="200">
+<img src="path-to-Sport-Chek-logo" alt="Sport Chek Logo" width="200" height="200">
+<img src="path-to-Atmosphere-logo" alt="Atmosphere Logo" width="200" height="200">
+<img src="path-to-Triangle-MasterCard-logo" alt="Triangle MasterCard Logo" width="200" height="200">
+<img src="path-to-Sports-Experts-logo" alt="Sports Experts Logo" width="200" height="200">
+<img src="path-to-FGL-Sports-logo" alt="FGL Sports Logo" width="200" height="200">
+<img src="path-to-HELLY-HANSEN-logo" alt="HELLY HANSEN Logo" width="200" height="200">
+<img src="path-to-Party-City-logo" alt="Party City Logo" width="200" height="200">
+<img src="path-to-HGTV-logo" alt="HGTV Logo" width="200" height="200">
+<img src="path-to-UofT-logo" alt="University of Toronto Logo" width="200" height="200">
 
 ## 📫 Let's Connect
 
