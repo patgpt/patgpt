@@ -53,7 +53,7 @@ I've had the honor of contributing to projects for the following esteemed client
 - ![ZScalar](path-to-ZScalar-logo)
 - ![Owens Corning](path-to-Owens-Corning-logo)
 - ![Canadian Tire](path-to-Canadian-Tire-logo)
-- ![Marks](path-to-Marks-logo)
+- ![Marks](./logos/marks.png)
 - ![Sport Chek](path-to-Sport-Chek-logo)
 - ![Atmosphere](path-to-Atmosphere-logo)
 - ![Triangle MasterCard](path-to-Triangle-MasterCard-logo)
