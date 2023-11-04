@@ -39,6 +39,33 @@
 
 ---
 
+## Clients & Projects
+
+I've had the honor of contributing to projects for the following esteemed clients:
+
+- ![Sherwin Williams](path-to-Sherwin-Williams-logo)
+- ![Google](path-to-Google-logo)
+- ![Intel](path-to-Intel-logo)
+- ![AWS Reinvent](path-to-AWS-Reinvent-logo)
+- ![iLikePlastic](path-to-iLikePlastic-logo)
+- ![The Tobacco Healing Center](path-to-The-Tobacco-Healing-Center-logo)
+- ![Novartis](path-to-Novartis-logo)
+- ![ZScalar](path-to-ZScalar-logo)
+- ![Owens Corning](path-to-Owens-Corning-logo)
+- ![Canadian Tire](path-to-Canadian-Tire-logo)
+- ![Marks](path-to-Marks-logo)
+- ![Sport Chek](path-to-Sport-Chek-logo)
+- ![Atmosphere](path-to-Atmosphere-logo)
+- ![Triangle MasterCard](path-to-Triangle-MasterCard-logo)
+- ![Sports Experts](path-to-Sports-Experts-logo)
+- ![FGL Sports](path-to-FGL-Sports-logo)
+- ![HELLY HANSEN](path-to-HELLY-HANSEN-logo)
+- ![Party City](path-to-Party-City-logo)
+- ![HGTV](path-to-HGTV-logo)
+- ![UofT](path-to-UofT-logo)
+
+---
+
 ## 📫 Let's Connect
 
 - GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/patgpt/)
