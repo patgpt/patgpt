@@ -43,7 +43,7 @@
 
 I've had the honor of contributing to projects for the following esteemed clients:
 
-- ![Sherwin Williams](path-to-Sherwin-Williams-logo)
+- ![Sherwin Williams](/logos/sw-logo.png)
 - ![Google](path-to-Google-logo)
 - ![Intel](path-to-Intel-logo)
 - ![AWS Reinvent](path-to-AWS-Reinvent-logo)
@@ -51,18 +51,18 @@ I've had the honor of contributing to projects for the following esteemed client
 - ![The Tobacco Healing Center](path-to-The-Tobacco-Healing-Center-logo)
 - ![Novartis](path-to-Novartis-logo)
 - ![ZScalar](path-to-ZScalar-logo)
-- ![Owens Corning](path-to-Owens-Corning-logo)
-- ![Canadian Tire](path-to-Canadian-Tire-logo)
-- ![Marks](./logos/marks.png)
-- ![Sport Chek](path-to-Sport-Chek-logo)
-- ![Atmosphere](path-to-Atmosphere-logo)
-- ![Triangle MasterCard](path-to-Triangle-MasterCard-logo)
-- ![Sports Experts](path-to-Sports-Experts-logo)
+- ![Owens Corning](/logos/oc-logo/png)
+- ![Canadian Tire](/logos/ct-logo.png)
+- ![Marks](/logos/marks.png)
+- ![Sport Chek](/logos-sc-logo.png)
+- ![Atmosphere](/logos/atmosphere-logo.png)
+- ![Triangle MasterCard](/logos/ctfs-logo.png)
+- ![Sports Experts](/logos/se-logo.png)
 - ![FGL Sports](path-to-FGL-Sports-logo)
-- ![HELLY HANSEN](logos/hh-logo.png)
-- ![Party City](path-to-Party-City-logo)
-- ![HGTV](path-to-HGTV-logo)
-- ![UofT](path-to-UofT-logo)
+- ![HELLY HANSEN](/logos/hh--logo.png h=200px w=200px)
+- ![Party City](/logos/pc-logo)
+- ![HGTV](/logos/hgtv-logo)
+- ![UofT](/logos/ufot-logo)
 
 ---
 
