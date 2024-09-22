@@ -1,5 +1,5 @@
 # Patrick Kelly - Senior Web Developer  
-**LinkedIn:** [PatGPT](https://github.com/PatGPT) | **Location:** Calgary, Alberta, Canada
+**LinkedIn:** [PatGPT](https://linkedin.com/u/PatGPT) | **Location:** Calgary, Alberta, Canada
 
 ---
 
