@@ -63,5 +63,3 @@
 > "*Every 3D render tells a story, every API endpoint enables a journey*"  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatGPT&show_icons=true&theme=radical)
