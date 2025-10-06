@@ -1,65 +1,84 @@
-# 👋 Hi, I'm Patrick  
-### **🛠️ Full-Stack Developer | 🎮 Game Dev Veteran | ☁️ Cloud Architect**
+👋 Hi, I’m Patrick
 
----
+🛠️ Full-Stack Developer | 🎮 Game Dev Veteran | 🤖 AI Integrations Researcher
 
-## 🚀 **Tech Stack**  
+I’m a software developer of 25 years building end-to-end products across web, mobile, and interactive experiences. Lately I’m deep in AI integrations—prototyping systems that explore emergent behaviors with RAG, GraphRAG, knowledge graphs, and Memgraph (Cypher)–driven pipelines.
 
-### **Frontend**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logo=daisyui&logoColor=white)
+⸻
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+🚀 Focus Areas (Now)
+	•	AI Systems: RAG/GraphRAG architectures, embeddings, retrieval orchestration, memory graphs, evaluation & tracing
+	•	Graph + Search: Memgraph with Cypher queries, graph algorithms, hybrid vector/graph retrieval
+	•	DX & Performance: Typed APIs, sensible boundaries, clean architecture, CI/CD, telemetry
 
-### **Databases**  
-![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/-Drizzle-FFDB57?logo=drizzle&logoColor=black)
+⸻
 
-### **Tools**  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+🧪 AI & Research
+	•	GraphRAG patterns for reasoning on complex domains via knowledge graphs
+	•	Memgraph + Cypher for fast graph queries and real-time analytics
+	•	RAG pipelines that blend vector search with graph context for grounded answers
 
----
+⸻
 
-## 📌 **About Me**  
-`const developer = {`  
-&nbsp;&nbsp;`experience: "25+ years",`  
-&nbsp;&nbsp;`specialties: ["Web Dev", "Mobile Apps", "Game Development"],`  
-&nbsp;&nbsp;`education: "BSc Game Design & Development",`  
-&nbsp;&nbsp;`companies: ["Canadian Tire", "BestBuy", "SportChek", "WithU"],`  
-&nbsp;&nbsp;`entrepreneurship: "Founded WordPress Studio (10 years)"`  
-`}`
+🧰 Tech Stack
 
----
+Frontend
 
-## 🤝 **Let's Connect**  
-[![x.com](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/AGIManifesto)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/patgpt)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/PatGPT)
+Backend
 
----
+Data & Infra
 
-## 🏆 **Career Highlights**  
-- **🎮 Game Development:** Shipped 15+ titles across multiple platforms  
-- **🛒 Retail Tech:** Revolutionized e-commerce for major Canadian retailers  
-- **📈 WordPress Studio:** Delivered 200+ sites with SEO/SMM integration  
-- **🔥 Current Focus:** AI-powered applications with OpenAI integrations  
+ 
 
----
+Tools
 
-## 💡 **Philosophy**  
-> "*Clean code is art disguised as engineering*"  
-> "*Mobile-first isn't an option - it's the oxygen of modern development*"  
-> "*Every 3D render tells a story, every API endpoint enables a journey*"  
 
----
+⸻
+
+📌 About Me
+
+const patrick = {
+  experience: "25 years",
+  specialties: ["Web", "Mobile", "Game Development", "AI Integrations"],
+  education: "Diploma in Game Design & Development (Unity/Unreal)",
+  roles: ["Full-stack dev", "UX/Experimentation", "Interactive/Events"],
+  companies: ["Canadian Tire", "Best Buy", "Sport Chek", "Mark's", "WithU"],
+  studio: "Ran a 10-year studio: Full-stack, SEO, PPC, WordPress, React, Flutter"
+};
+
+
+⸻
+
+🏆 Selected Work & Collaborations
+	•	UX Testing & Experimentation for major merchandisers: Canadian Tire, Best Buy, Sport Chek, Mark’s, Atmosphere
+	•	Live Events & Interactives: Zscaler Zenith Live, AWS re:Invent (plus partner activations)
+	•	Projects for: Google, NASA, Amazon, HGTV, Canada’s Next Top Model
+	•	Game Dev: Unity & Unreal pipelines; shipped multi-platform interactive experiences
+	•	Health & Fitness: WithU (top fitness app)
+
+⸻
+
+🔭 Currently Building
+	•	AI-powered apps with OpenAI integrations, retrieval layers (RAG/GraphRAG), and graph-backed memory
+	•	Typed services and clean, measurable backends that scale and stay readable
+
+⸻
+
+💡 Philosophy
+
+Clean architecture ages well.
+Mobile-first is table stakes.
+Every API enables a story; every interface should respect the user’s time.
+
+⸻
+
+🤝 Connect
+
+
+⸻
+
+Notes on spellings/terms used (for your reference—don’t include in README)
+	•	“Zenith Live” (Zscaler) and “re:Invent” (AWS) event names and capitalization.  ￼
+	•	Sport Chek brand spelling.  ￼
+	•	GraphRAG overview and terminology.  ￼
+	•	Memgraph uses Cypher (openCypher) for querying.  ￼ bullets of outcomes) or add a “Pinned projects” section with 2–4 showcase links and one-line outcomes.
